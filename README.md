@@ -5,4 +5,4 @@ War Thunder Emulator is a technology that allows you to share control of a tank 
 Use the documentation for installation and use.
 
 ![Image alt](https://github.com/Lesuut/Emulator-War-Thunder_Installer/blob/main/Imgs/Publication%20Emulator%20Scheme.png)
-![Image alt](https://github.com/Lesuut/Emulator-War-Thunder_Installer/blob/main/Imgs/Leafletpng.png)
+![Image alt](https://github.com/Lesuut/Emulator-War-Thunder_Installer/blob/main/Imgs/Leafletpng1.png)
